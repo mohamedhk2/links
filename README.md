@@ -78,7 +78,7 @@
         <th colspan=4 align=center><img src="https://www.free-emoticons.com/files/objects-emoticons/12651.png" height="50"><h3>Series</h3></th>
     </tr>
     <tr>
-      <td><img src="https://www.google.com/s2/favicons?domain=ettvtorrents.com" height="16">&nbsp;<a target="_blank" href="https://ettvtorrents.com">ETTV Torrents</a></td>
+      <td><img src="https://www.google.com/s2/favicons?domain=ettvtorrents.com" height="16">&nbsp;<a target="_blank" href_="https://ettvtorrents.com"><del>ETTV Torrents</del></a></td>
       <td>Online ETTV Series Downloads</td>
       <td><img src="https://www.free-emoticons.com/files/objects-emoticons/12651.png" height="16"></td>
       <td><img src="https://www.free-emoticons.com/files/computer-emoticons/4379.png" height="16"></td>
@@ -93,12 +93,6 @@
         <th colspan=4 align=center><img src="https://www.free-emoticons.com/files/media-emoticons/11362.png" height="50"><h3>Mobile Apps/Games</h3></th>
     </tr>
     <tr>
-      <td><img src="https://www.google.com/s2/favicons?domain=apkpure.com" height="16">&nbsp;<a target="_blank" href="https://apkpure.com">APKPure.com</a></td>
-      <td>Download APK free online downloader</td>
-      <td><img src="https://www.free-emoticons.com/files/media-emoticons/11362.png" height="16"></td>
-      <td><img src="https://www.free-emoticons.com/files/business-emoticons/2777.png" height="16"></td>
-    </tr>
-    <tr>
       <td><img src="https://www.google.com/s2/favicons?domain=apkmos.com" height="16">&nbsp;<a target="_blank" href="https://apkmos.com">Apkmos.com</a></td>
       <td>Download Best Android Apps #APKMOS</td>
       <td><img src="https://www.free-emoticons.com/files/media-emoticons/11362.png" height="16"></td>
@@ -107,6 +101,18 @@
     <tr>
       <td><img src="https://www.google.com/s2/favicons?domain=dlandroid.com" height="16">&nbsp;<a target="_blank" href="https://dlandroid.com">DlAndroid</a></td>
       <td>Download Mod Apk Games & Apps Android</td>
+      <td><img src="https://www.free-emoticons.com/files/media-emoticons/11362.png" height="16"></td>
+      <td><img src="https://www.free-emoticons.com/files/business-emoticons/2777.png" height="16"></td>
+    </tr>
+    <tr>
+      <td><img src="https://www.google.com/s2/favicons?domain=apkpure.com" height="16">&nbsp;<a target="_blank" href="https://apkpure.com">APKPure.com</a></td>
+      <td>Download APK free online downloader</td>
+      <td><img src="https://www.free-emoticons.com/files/media-emoticons/11362.png" height="16"></td>
+      <td><img src="https://www.free-emoticons.com/files/business-emoticons/2777.png" height="16"></td>
+    </tr>
+    <tr>
+      <td><img src="https://www.google.com/s2/favicons?domain=happymod.com" height="16">&nbsp;<a target="_blank" href="https://www.happymod.com">HappyMod</a></td>
+      <td>od apk download - HappyMod: 100% working mods!</td>
       <td><img src="https://www.free-emoticons.com/files/media-emoticons/11362.png" height="16"></td>
       <td><img src="https://www.free-emoticons.com/files/business-emoticons/2777.png" height="16"></td>
     </tr>
